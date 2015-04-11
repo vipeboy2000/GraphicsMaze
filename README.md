@@ -1,6 +1,6 @@
 # GraphicsMaze
 UTC Graphics Final Project
-Milan Arits
+Milan Artis
 Sami Beaston
 Nick Huetter
 Daniel Lee
